@@ -1,3 +1,5 @@
+Demo: https://alexkmnsky.github.io/LibreQuiz/
+
 ## Inspiration
 At the University of Waterloo, we noticed that a lot of students were frustrated with having to pay $50+ for a program called iClicker.  The program allows instructors to ask students questions during their lectures and record their answers.  We felt there was no need for students to pay so much for such simple software, and there was no reason that instructors should have to grapple with the difficulties of getting it setup.  We addressed this problem by creating LibreQuiz.
 
